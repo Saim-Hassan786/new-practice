@@ -1,2 +1,1 @@
-# new-practice
-New creation of a repo for practice
+# I am ready for this Adventure of Artificial Intelligence Exploration
